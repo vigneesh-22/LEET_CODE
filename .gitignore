@@ -1,0 +1,4 @@
+# Local sync state and Python bytecode should not be published.
+leetcode/.synced_submissions.json
+__pycache__/
+*.py[cod]
